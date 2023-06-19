@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Profile</title>
+        <style>
+            body{
+                background-color:orange;
+                text-align:center;
+            }
+            p{
+                font-size:30px;
+            }
+            img{
+                border:5px solid #555;
+                opacity:0.4;
+            }
+            img:hover{
+                opacity:1;
+            }
+            marquee{
+                background:linear-gradient(to left,pink,purple,blue,green,yellow,orange,red,purple,pink);
+                color:white;
+                font-size:25px;
+            }
+        </style>
+    </head>
+    <body>
+    <h6>Welcome</h6>
+        <h1 style="color:rgb(30, 40, 115);background:linear-gradient(to left,green,orange,yellow,green);"><u>My Profile Page</u></h1>
+        <br><br>
+        <img src="https://dp.profilepics.in/profile_pictures/dolls/dolls_profile_pictures_01.jpg" width="200px" height="200px">
+        
+        <h4><u>About me-</u></h4>
+        <p>Hi my name is Priti and today I will be your mentor. Here I welcome to the Codeyoung for the Web Development course. In this we can learn how to write a code to design a web page. So this is my profile page as a demo page for designing a code. So Let's begin....</p>
+        <br><br><br><br><br><br><br><br><br>
+        <marquee><b>Made by- Priti</b></marquee>
+    </body>
+</html>
